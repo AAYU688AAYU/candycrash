@@ -3,7 +3,7 @@ this is my first git repository
 <br>
 Author -
 <br>
-1.Gulshan kumar 
+1.Gulshan sharma 
 <br>
          2.jagrath
          <br>
