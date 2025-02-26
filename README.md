@@ -1,7 +1,9 @@
 # candycrash
 this is my first git repository
 <br>
-Author - 1.Gulshan kumar 
+Author -
+<br>
+1.Gulshan kumar 
 <br>
          2.jagrath
          <br>
